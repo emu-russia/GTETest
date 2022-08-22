@@ -6,6 +6,11 @@ Program for testing GTE instructions.
 
 The program is intended to be run from a CD-ROM. It includes the source code (PsyQ 4.6 is required for compilation), an executable file and a ready-made image for burning to CD-ROM.
 
+And what use cases would this program even have? 
+- Check how GTE instructions are executed with different set opcode bits on different CPUs. (those that are usually preset to certain values)
+- Check the emulator with a real console.
+- Use as a template to create similar utilities for other PSX tests.
+
 Controls in the program:
 - Left, Right - Change the bit number of the register
 - Up, Down - Select register
