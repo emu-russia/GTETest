@@ -61,7 +61,7 @@ Known glitches and flaws:
 Changes:
 - In version 0.1 I forgot to set the COP2 Usable bit in the STATUS register.
 - In version 0.2 the controller is adequately handled.
-- The version 0.3 (thanks to @edgbla) has no jittery buttons and normal screen resolution.
+- The version 0.3 (thanks to @edgbla) has no jittery buttons and proper screen resolution.
 
 Comments:
 To compile the program change the paths in BUILD.BAT and MAIN.INL, then run BUILD.BAT, then run CONVERT.BAT in DOSBox.
